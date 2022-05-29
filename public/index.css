@@ -1,0 +1,26 @@
+body{
+    background-color: #EFEFAA;
+}
+button{
+    width: 100px;
+    background-color:blueviolet ;
+    height: 30px;
+    color: wheat;
+    border-radius: 50px;
+}
+h3{
+    font-size: 3rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p{
+    font-size: 3rem;
+}
+.container{
+    width: 50vw;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    border: 2px solid black;
+}
